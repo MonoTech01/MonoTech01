@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Mono (>^_^<).
-I'm a Network Technician student evolving my IT & Networking & Cybersecurity skills. I'm using this GitHub to showcase my projects & labs, track my progress, and connect with others.
+I'm a Network Technician evolving my IT & Networking & Cybersecurity skills. I'm using this GitHub to showcase my projects & labs, track my progress, and connect with others.
 
 Note: I'll be uploading more regularly, so stay tuned! Please check my Repositories for more details!
 
