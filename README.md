@@ -2,7 +2,7 @@
 
 CCNA and CompTIA Security+ certified IT professional with hands-on experience in **networking, system administration, and cybersecurity**. Skilled in configuring **firewalls, wireless access points, and switches**, troubleshooting escalated IT issues, and implementing security best practices. 
 
-Currently pursuing a **B.S. in Cybersecurity & Information Assurance**, demonstrating a strong commitment to continuous learning and professional growth. Passionate about **network security and optimizing system performance**.
+Currently pursuing a **B.S. in Cybersecurity**, demonstrating a strong commitment to continuous learning and professional growth. Passionate about **network security and optimizing system performance**.
 
 📌 **Core Skills**: Networking, Security, Windows/Linux Administration.
 
