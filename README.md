@@ -13,6 +13,6 @@ I would love to evolve my skills in **IT, Networking, and Cybersecurity**. This 
 Please check out my repositories below!  
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVlaDE5bjNxdjM3aHlkaTMxb2h2ZXZieW9xZXY4YzkxdzZ6aXNzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NbhiwA0C8THIv8KvG5/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0MGdubmo4djFsbW45dHNncHM0dmVrMjB4aXZ2OHVxcWFqazk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wWf7HapUvpOumiXZRK/giphy.gif"/>
 </div>
 
