@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Mono (>^_^<).
+## Hello there 👋 I'm Mono (>^_^<).
 
 CCNA and CompTIA Security+ certified IT professional with hands-on experience in **networking, system administration, and cybersecurity**. Skilled in configuring **firewalls, wireless access points, and switches**, troubleshooting escalated IT issues, and implementing security best practices. 
 
